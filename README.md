@@ -13,4 +13,7 @@ This is the internal circuit of the PV module consisting 36 individual solar cel
 ![alt text](https://github.com/gk147-pcb/PVModule_LTSpice/blob/main/PV_Module.png/?raw=true)
 Above is the circuit diagram of the PV module itself which is used to carry out the simulation on DC voltage sweep. Below are the V-I Characteristics generated from the simulation.
 
+# I-V and Power-Voltage Characteristics
+![alt text](https://github.com/gk147-pcb/PVModule_LTSpice/blob/main/IV_Curve.png/?raw=true)
+
  
