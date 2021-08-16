@@ -3,7 +3,7 @@
  
 # Single Solar Cell Circuit Diagram
 ![alt text](https://github.com/gk147-pcb/PVModule_LTSpice/blob/main/Single_Solar_Cell.png/?raw=true)
-A single solar cell has the equivalent circuit diagram of a current source. In this case, the current source is I1 with a magnitude of 3A with a didoe D1 connected in parallel.
+A single solar cell has the equivalent circuit diagram of a current source. In this case, the current source is I1 with a magnitude of 3A with a diode D1 connected in parallel.
 
 # PV Module
 ![alt text](https://github.com/gk147-pcb/PVModule_LTSpice/blob/main/PV_Module_36_Cells.png/?raw=true)
@@ -11,6 +11,6 @@ This is the internal circuit of the PV module consisting 36 individual solar cel
 
 # PV Module Circuit Diagram for Simulation
 ![alt text](https://github.com/gk147-pcb/PVModule_LTSpice/blob/main/PV_Module.png/?raw=true)
-Above is the circuit diagram of the PV module itself which is used to carry out the simulation on DC voltage sweep. Below are the I-V graphs generated from the simulation.
+Above is the circuit diagram of the PV module itself which is used to carry out the simulation on DC voltage sweep. Below are the V-I Characteristics generated from the simulation.
 
  
