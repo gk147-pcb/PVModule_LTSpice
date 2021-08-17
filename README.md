@@ -1,4 +1,4 @@
-# Photo-Voltaic Module desiigned on LT Spice
+# Photo-Voltaic Module Designed & Simulated on LT Spice
  Designed and simulated a solar cell and a corresponding PV module that consists of 36 cells on LT Spice.
  
 # Single Solar Cell Circuit Diagram
