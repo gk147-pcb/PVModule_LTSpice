@@ -3,7 +3,8 @@
  
 # Single Solar Cell Circuit Diagram
 ![alt text](https://github.com/gk147-pcb/PVModule_LTSpice/blob/main/Single_Solar_Cell.png/?raw=true)
-A single solar cell has the equivalent circuit diagram of a current source. In this case, the current source is I1 with a magnitude of 3A with a diode D1 connected in parallel. (circuit designed on LT Spice)
+A single solar cell has the equivalent circuit diagram of a current source. In this case, the current source is I1 with a magnitude of 3A with a diode D1 connected in parallel. 
+Note: Circuit designed on LT Spice Software
 
 # PV Module
 ![alt text](https://github.com/gk147-pcb/PVModule_LTSpice/blob/main/PV_Module_36_Cells.png/?raw=true)
